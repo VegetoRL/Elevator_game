@@ -1174,7 +1174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EffetJaugeController
   globalVolume: {fileID: 1132720260}
-  valeurJauge: 1
+  valeurJauge: 0
 --- !u!4 &1941025852
 Transform:
   m_ObjectHideFlags: 0
